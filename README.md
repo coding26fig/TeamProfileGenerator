@@ -46,6 +46,9 @@ The purpose of this project was to create a Node.js command-line application tha
 - Create and HTML page from a command line interface
 
 ## Screenshots
+![image](https://user-images.githubusercontent.com/97489289/170609045-2d96bbba-306b-4abf-bf52-d7e1a609d0ad.png)
+
+Below is a link to the video of the application
 - https://drive.google.com/file/d/1wdWfsB1VJ9FKfi32G3SGwN-miZAOtqhB/view
 
 
